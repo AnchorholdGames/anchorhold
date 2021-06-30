@@ -303,16 +303,16 @@ namespace SDCodingStandardHelpers
 //      - Prototype code should be avoided in non-prototype modules.
 
 // [module.naming.class] code in modules should also follow our naming convention
-//  - Interfaces in Interface modules should be prefixed with SDI
-//  - Classes, Struct & Enums in Interface modules should be prefixed with SDC
-//  - Interfaces in Core modules should be prefixed with SDC
-//  - Classes, Struct & Enums in Core modules should be prefixed with SDC
-//  - Interfaces in Game modules should be prefixed with SD
-//  - Classes, Struct & Enums in Game modules should be prefixed with SD
+//  - Interfaces in Interface modules should be prefixed with AHI
+//  - Classes, Struct & Enums in Interface modules should be prefixed with AHC
+//  - Interfaces in Core modules should be prefixed with AHC
+//  - Classes, Struct & Enums in Core modules should be prefixed with AHC
+//  - Interfaces in Game modules should be prefixed with AH
+//  - Classes, Struct & Enums in Game modules should be prefixed with AH
 
 // [module.naming.namespace]
-//  - Namespaces in Core modules should be prefixed with SDC
-//  - Namespaces in Game modules should be prefixed with SD
+//  - Namespaces in Core modules should be prefixed with AHC
+//  - Namespaces in Game modules should be prefixed with AH
 //  - Namespaces should be named the same as the file they live in
 //  - Namespaces may be postfixed with "Helpers" where it prevents ambiguity
 
