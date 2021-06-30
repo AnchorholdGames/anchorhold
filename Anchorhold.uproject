@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{D967BEB3-44C8-C749-D215-AABAE0176EBF}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Anchorhold",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
