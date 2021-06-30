@@ -4,13 +4,13 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/GameModeBase.h"
-#include "AnchorholdGameModeBase.generated.h"
+#include "AHGameModeBase.generated.h"
 
 /**
  * 
  */
 UCLASS()
-class ANCHORHOLD_API AAnchorholdGameModeBase : public AGameModeBase
+class AAHGameModeBase : public AGameModeBase
 {
 	GENERATED_BODY()
 	
